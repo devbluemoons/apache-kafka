@@ -10,3 +10,4 @@
 - [partition](partition) : divide one of topic to serveral
 - [segment](segment) : file that saved message to local disk of broker
 - [message](message) : data piece or record
+- [page-cache](page-cache) : usage physics memory
