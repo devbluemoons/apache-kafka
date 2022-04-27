@@ -5,7 +5,8 @@
 - [broker](broker) : server or node that installed kafka application
 - topic : divide message pid
   - [partition](partition) : divide one of topic to serveral
-  - [replication-factor](replication-factor) :
+  - [replication-factor](replication-factor) : copy count of topic
+  - [segment](segment) : log file of partition
 - client
   - [producer](producer) : create message and send
     - [partitioner](partitioner) : 
